@@ -1,0 +1,4 @@
+sensor_msgs/Image image_data
+---
+int32[] ids
+aruco_interface/BoundingBox[] bboxs

@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/aruco_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/aruco_interface/msg/detail/bounding_box__type_support.cpp.o"
+  "CMakeFiles/aruco_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/aruco_interface/msg/detail/bounding_box__type_support.cpp.o.d"
+  "CMakeFiles/aruco_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/aruco_interface/srv/detail/send_image__type_support.cpp.o"
+  "CMakeFiles/aruco_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/aruco_interface/srv/detail/send_image__type_support.cpp.o.d"
+  "libaruco_interface__rosidl_typesupport_introspection_cpp.pdb"
+  "libaruco_interface__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/aruco_interface/msg/detail/bounding_box__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/aruco_interface/msg/detail/bounding_box__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/aruco_interface/srv/detail/send_image__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/aruco_interface/srv/detail/send_image__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/aruco_interface__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

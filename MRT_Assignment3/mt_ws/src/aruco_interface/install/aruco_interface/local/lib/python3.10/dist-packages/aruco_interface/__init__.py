@@ -1,0 +1,1 @@
+/home/pranavmintri/mt_ws/src/aruco_interface/build/aruco_interface/rosidl_generator_py/aruco_interface/__init__.py

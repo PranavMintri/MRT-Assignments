@@ -1,0 +1,6 @@
+setup.py
+aruco_interface/__init__.py
+aruco_interface.egg-info/PKG-INFO
+aruco_interface.egg-info/SOURCES.txt
+aruco_interface.egg-info/dependency_links.txt
+aruco_interface.egg-info/top_level.txt

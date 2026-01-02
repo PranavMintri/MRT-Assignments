@@ -1,0 +1,1 @@
+/home/pranavmintri/mt_ws/src/aruco_interface/build/aruco_interface/rosidl_typesupport_introspection_c/aruco_interface/srv/detail/send_image__rosidl_typesupport_introspection_c.h

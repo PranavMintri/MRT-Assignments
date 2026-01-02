@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from aruco_interface/srv/SendImage.srv
+// generated code does not contain a copyright notice
+
+#include "aruco_interface/msg/BoundingBox.idl"
+#include "sensor_msgs/msg/Image.idl"
+
+module aruco_interface {
+  module srv {
+    struct SendImage_Request {
+      sensor_msgs::msg::Image image_data;
+    };
+    struct SendImage_Response {
+      sequence<int32> ids;
+
+      sequence<aruco_interface::msg::BoundingBox> bboxs;
+    };
+  };
+};

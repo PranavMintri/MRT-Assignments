@@ -1,0 +1,7 @@
+{
+  "package_name": "aruco_interface",
+  "non_idl_tuples": [
+    "/home/pranavmintri/mt_ws/src/aruco_interface:msg/BoundingBox.msg",
+    "/home/pranavmintri/mt_ws/src/aruco_interface:srv/SendImage.srv"
+  ]
+}

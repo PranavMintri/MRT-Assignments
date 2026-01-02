@@ -1,0 +1,1 @@
+/home/pranavmintri/mt_ws/src/aruco_interface/build/aruco_interface/rosidl_typesupport_fastrtps_cpp/aruco_interface/msg/detail/bounding_box__rosidl_typesupport_fastrtps_cpp.hpp
