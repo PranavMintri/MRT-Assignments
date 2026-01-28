@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_node = ros_pipeline.publisher_node:main
+subscriber_node = ros_pipeline.subscriber_node:main
+
